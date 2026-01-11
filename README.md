@@ -363,14 +363,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 👨‍💻 Author
-
-**Prem Saik**
-- GitHub: [@prem22k](https://github.com/prem22k)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
----
-
 ## 🙏 Acknowledgments
 
 - **Google Gemini** for AI-powered email generation
